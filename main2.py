@@ -2,7 +2,7 @@
 from pyscript import display, document  
 
 def new_member(e):
-    document.getElementById('output').innerHTML = " "
+    document.getElementById('output2').innerHTML = " "
     first = document.getElementById('first_name').value
     last = document.getElementById('last_name').value
 
