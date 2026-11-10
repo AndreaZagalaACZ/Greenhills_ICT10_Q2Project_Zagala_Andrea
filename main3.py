@@ -3,7 +3,7 @@ from pyscript import display , document
 
 def check(e):
     # Calls out the variables
-    document.getElementById('output').innerHTML = ' '
+    document.getElementById('output3').innerHTML = ' '
     symbol = document.getElementById('symbol').value
 
     # Elements in the dictionary
